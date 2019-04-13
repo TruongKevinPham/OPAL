@@ -93,3 +93,8 @@ Video app for users to post their opinions through a video or audio recording, r
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+
+## Sprint 1 Results
+<img src='http://g.recordit.co/zjOqcokJqk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
